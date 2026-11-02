@@ -2,7 +2,7 @@
 Im going to make a antique style escape room or puzzle box using as many cardputer adv features as i can!
 I got one room done but it is pretty fun to play and i added gyro and sounds!
 The whole idea is an escape room but on a cardputer adv so its protable for friends and stuff, i dont want to spoil but it is super good and its kinda haloween themed...
-
+<img width="419" height="288" alt="image" src="https://github.com/user-attachments/assets/55b78263-9dc4-44a0-8a4d-812d60912ca3" />
 Arduino Instructions 
 Arduino Setup section,
 
@@ -19,4 +19,5 @@ Arduino Setup section,
 
 
 heres a full run thru of the project if you need help or want it
-<img width="419" height="288" alt="image" src="https://github.com/user-attachments/assets/55b78263-9dc4-44a0-8a4d-812d60912ca3" />
+https://youtu.be/isgJdbDC71Y?si=-kt9EEihOccmWq0V
+
