@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\TheOr\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "m5stack:esp32:m5stack_cardputer:UploadSpeed=921600,USBMode=hwcdc,CDCOnBoot=cdc,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,CPUFreq=240,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,PSRAM=disabled,LoopCore=1,EventsCore=1,EraseFlash=none,JTAGAdapter=default",
+  "hardwareFolders": "C:\\Users\\TheOr\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\3.3.9,C:\\Users\\TheOr\\AppData\\Local\\Arduino15\\packages\\m5stack\\hardware\\esp32\\3.3.9",
+  "otherLibrariesFolders": "c:\\Users\\TheOr\\OneDrive\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\TheOr\\OneDrive\\Documents\\Arduino\\ANTIQUEescape"
+}
