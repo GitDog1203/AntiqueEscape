@@ -16,3 +16,7 @@ Arduino Setup section,
 8. if it asks to install other things like M5Unified accept
 9. Plug cardputerAdv into the computer and uplaod the firmware
 10. play!
+
+
+heres a full run thru of the project if you need help or want it
+<img width="419" height="288" alt="image" src="https://github.com/user-attachments/assets/55b78263-9dc4-44a0-8a4d-812d60912ca3" />
